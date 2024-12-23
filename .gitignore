@@ -1,0 +1,12 @@
+# .gitignore
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
